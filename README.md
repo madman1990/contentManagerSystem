@@ -1,3 +1,5 @@
+fork来自[yangxiaobing175/contentManagerSystem/基于SpringBoot+Shiro+Mybatis+Druid+layui后台管理系统](https://github.com/yangxiaobing175/contentManagerSystem)
+
 contentManagerSystem后台管理系统2.0
 ===============
 简介
